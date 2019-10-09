@@ -1,0 +1,20 @@
+18
+attribute_type (Chinese)      attribute_type (English)
+衣长                          length of upper-body clothes
+裤型                          type of trousers
+细节                          part details of clothes
+衣门襟                        type of clothes buttons
+裤长                          length of trousers
+风格                          style of clothes
+材质                          fabric of clothes
+腰型                          type of waistlines
+元素                          texture of clothes
+图案                          graphic elements of clothes
+裙长                          length of dresses
+裙款式                        design of dresses
+袖长                          length of sleeves
+版型                          fitness of clothes
+领型                          type of collars
+裙型                          type of dresses
+厚薄                          thickness of clothes
+袖型                          type of sleeves

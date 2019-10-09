@@ -1,0 +1,49 @@
+data:
+    root_path: /home/zlchen/dataset
+    dataset: deepfashion2_retrieval
+    train:
+        data: data/DeepFashionV2/train.txt
+        label: data/DeepFashionV2/train_label.txt
+    test:
+        query:
+            data_path: data/DeepFashionV2/query.txt
+            id_path: data/DeepFashionV2/query_id.txt
+        gallery:
+            data_path: data/DeepFashionV2/gallery.txt
+            id_path: data/DeepFashionV2/gallery_id.txt
+
+model:
+    input_size: [192, 192]
+    embedding_dim: 128
+    backbone:
+        name: resnet50_attention
+        pretrain: pretrain/resnet50/resnet_v2_50.ckpt
+
+train:
+    batch_p: 32
+    batch_k: 3
+    epoches: 80
+    iters: 1860
+    optimizer: adam
+    lr:
+        boundaries: [20, 40]
+        values: [0.0001, 0.00001, 0.000001]
+    preprocess:
+        random_resized_crop:
+            scale: [0.8, 1.0]
+            ratio: [0.6, 1.66]
+        random_subsample:
+            scale: 0.8
+        horizontal_flip: 0.5
+        vertical_flip: 0.5
+    loss:
+        dml:
+            name: trihard
+            param:
+                metric: euclidean
+                margin: 0.2
+            weight: 1.0
+
+save:
+    dir: results
+    id: 1

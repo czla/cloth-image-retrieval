@@ -1,0 +1,305 @@
+﻿303
+attribute_name (Chinese)         attribute_name (English)                     attribute_type
+常规款（51-65cm）                Regular length (51-65cm)                     1
+常规款（55-65cm）                Regular length (55-65cm)                     1
+中长款（大于65cm）               Regular to long (longer than 65cm)           1
+中长款（66-80cm）                Regular to long (66-80cm)                    1
+短款（41-50cm）                  Short (41-50cm)                              1
+短款（小于55cm）                 Short (shorter than 55cm)                    1
+长款（大于80cm）                 Long (longer than 80cm)                      1
+短款（40-50cm）                  Short (40-50cm)                              1
+超短款（30-40cm）                Very short (30-40cm)                         1
+常规款                           Regular length                               1
+长款（81cm-100cm）               Long (81cm-100cm)                            1
+超短款（小于40cm）               Very short (shorter than 40cm)               1
+常规                             Regular length                               1
+中长款                           Regular to long                              1
+小脚/铅笔裤                      Skinny/Pencil pants                          2
+哈伦裤                           Harem pants                                  2
+直筒裤                           Straight pants                               2
+阔腿裤                           Wide-legs                                    2
+修身                             Slims                                        2
+背带裤                           Bib pants                                    2
+直筒                             Straights                                    2
+垮裤                             Baggy pants                                  2
+宽松                             Wide-legs                                    2
+拼接                             Mashups                                      3
+水洗                             Stonewashed                                  3
+印花                             Decal                                        3
+裙子套装                         Dress sets                                   3  
+镂空                             Hollow                                       3
+松紧                             Slacks                                       3
+破洞                             Holed                                        3
+打褶                             Pleated                                      3
+透视                             See-through                                  3
+磨白                             Sanded                                       3
+露肩                             Off-the-shoulder                             3
+插袋                             In-seam Pocket                               3
+短裤套装                         Short pants sets                             3
+荷叶边                           Flounced                                     3
+系带                             Lacing clothing                              3
+撞色                             Color Blocking                               3
+做旧                             Aged clothing                                3
+蝴蝶结                           Bow                                          3 
+绣花                             Embroidery                                   3
+抽绳                             Drawstrings                                  3
+不规则下摆                       Irregular hem                                3
+百褶                             Pleated                                      3
+前短后长                         Declining                                    3
+开衩                             Slit                                         3
+蕾丝                             Lace                                         3
+贴袋                             Patch pocket                                 3
+刺绣                             Embroidery                                   3
+流苏                             Tassels                                      3
+翻边                             Cuffed                                       3
+拉链                             Zips                                         3
+纽扣                             Buttons                                      3
+背带                             Suspender                                    3
+长裤套装                         Long pants sets                              3
+口袋                             Pockets                                      3
+系腰带                           Waistbelt                                    3
+纽扣装饰                         Button decorations                           3
+露背                             Backless                                     3
+多袋                             Multi pockets                                3
+拉链装饰                         Zip decorations                              3
+假两件                           Layered-look                                 3
+钉珠                             Beadings                                     3
+立体花朵                         Flower decorations                           3
+毛边                             Raw edged clothing                           3
+贴布                             Patch cloth                                  3
+层叠                             Layered-look                                 3
+金属装饰                         Metal decorations                            3
+开叉                             Slit                                         3
+贴布绣                           Appliqué                                     3
+多层（类似蛋糕）                 Layered-look                                 3
+铆钉                             Rivets                                       3
+露腰                             Midriff                                      3
+松紧腰                           Elastic waist                                3
+纯色                             Single-colored                               3
+吊带                             Suspenders                                   3
+钩花                             Crochet                                      3
+磨破                             Frazzle clothing                             3
+罗纹                             Ribbed                                       3
+网纱                             Plain net                                    3
+单排扣                           Single breasted                              3
+波浪边                           Waved edge                                   3
+不规则                           Irregular                                    3
+木耳边                           Waved edge                                   3
+蕾丝边                           Lace                                         3
+涂鸦                             Graffiti                                     3
+卷边                             Hem seam                                     3
+褶皱                             Plicate                                      3
+立体袋                           Pockets                                      3
+裙摆                             Skirts                                       3
+无袖                             Sleeveless                                   3
+亮片                             Paillette                                    3
+圆领                             Crew neck                                    3
+抓纹                             Terrycloth                                   3
+一字袋                           Pocket dress                                 3
+套头                             Pullovers/hoodies                            3
+两件套                           Two-pieced sets                              3
+压花                             Embossed                                     3
+打摺                             Pleated                                      3
+无扣                             No button                                    4
+拉链                             Zip                                          4
+单排扣                           Single breasted                              4
+套头                             Pullovers/hoodies                            4
+多粒单排扣                       Single breasted                              4
+系带                             Lacing clothing                              4
+一粒扣                           One button                                   4
+长裤                             Long pants                                   5
+短裤/热裤                        Shorts                                       5
+九分裤                           Cropped pants                                5
+七分裤                           Three quarter pants                          5
+短裤                             Short pants                                  5
+五分/中裤                        Pirate shorts                                5
+短裤/安全裤                      Shorts/boyshorts                             5
+五分裤                           Pirate shorts                                5
+日韩                             Japan/Korean                                 6
+学院                             College                                      6
+小清新                           Fresh                                        6
+甜美                             Sweet                                        6
+韩系                             Korean                                       6 
+通勤（OL）                       OL                                           6
+基本款                           Basic                                        6
+轻熟                             Young adult                                  6
+运动                             Sportswear                                   6
+复古                             Retro                                        6
+卡哇伊                           Kawaii                                       6
+欧美                             Western                                      6
+街头（潮人）                     Street fashion                               6
+森系                             Forest living style                          6
+街头                             Street fashion                               6
+民族                             Folk costume                                 6
+男友风                           Boyfriend-style                              6
+田园                             Garden                                       6
+嬉皮                             Hippie                                       6
+朋克                             Punk                                         6
+商务                             Business                                     6
+西部                             Western                                      6
+波西米亚                         Bohemian                                     6
+休闲                             Casual                                       6
+韩版                             Korean                                       6
+通勤                             OL                                           6
+棉                               Cotton                                       7
+雪纺                             Chiffon                                      7
+混纺                             Blended yarn                                 7
+牛仔布                           Jeans cloth                                  7
+棉麻                             Part linen                                   7
+蕾丝                             Lace                                         7
+牛仔                             Jeans cloth                                  7
+欧根纱                           Organza                                      7
+针织                             Knitted                                      7
+复合                             Mixed                                        7
+麻                               Hemp                                         7
+纯棉                             Cotton                                       7
+聚酯纤维                         Polyester                                    7
+化纤                             Chemical fiber                               7
+棉布                             Cotton                                       7
+网纱                             Silk lace gauze                              7
+棉混纺布                         Cotton mixed fabrics                         7
+锦纶                             Polyamide                                    7
+莫代尔                           Model                                        7
+太空棉（空气层）                 Space cotton                                 7
+毛呢                             Wool                                         7
+中腰                             Medium Rise                                  8
+高腰                             High Rise                                    8
+宽松腰                           Loose Waist                                  8  
+松紧腰                           Elastic Waist                                8
+低腰                             Low Rise                                     8
+中低腰                           Medium to Low Rise                           8
+自然腰                           Natural Waist                                8
+印花                             Printing                                     9
+拼接                             Splice                                       9
+纯色                             Solid Colour/Pure Colour                     9
+蕾丝                             Lace                                         9
+字母                             Alphabets/Letters                            9
+条紋                             Stripes                                      9
+镂空                             Hollow                                       9
+格紋                             Plaid                                        9
+卡通                             Cartoon                                      9
+撞色                             Contrast Colour                              9
+碎花                             Floral Printing                              9
+绣花                             Embroidery                                   9
+荷叶边                           Flounce                                      9
+不规则                           Ragged                                       9
+多层次                           Multi-layered                                9
+纯色                             Solid Colour/Pure Colour                     10
+字母                             Alphabets/Letters                            10
+细条纹                           Thin Stripes                                 10
+卡通                             Cartoon                                      10
+碎花                             Floral Printing                              10
+花卉                             Floral/Flowers                               10
+格纹                             Plaid                                        10
+人物                             People                                       10
+粗条纹                           Thick Stripes                                10
+几何                             Geometric                                    10
+大花                             Floral/Flowers                               10
+条纹                             Stripes                                      10
+波点                             Polka Dotted                                 10
+印花                             Printing                                     10
+动物                             Animals                                      10
+植物                             Plants                                       10
+抽象                             Abstract                                     10
+米老鼠                           Mickey Mouse                                 10
+猫                               Cat/Kitten                                   10
+花朵                             Floral/Flowers                               10
+数字                             Numbers                                      10
+细格纹                           Small plaid                                  10
+狗                               Dog                                          10
+迷彩                             Camouflage                                   10
+格子                             Plaid                                        10
+唐老鸭                           Donald Duck                                  10
+logo                             Logo                                         10
+渐变                             Fade Colour                                  10
+扎染                             Tie-dye                                      10
+小鸟                             Bird                                         10
+星星                             Star                                         10
+花色                             Pattern                                      10
+波普                             Pop                                          10
+兔子                             Bunny                                        10
+米奇                             Mickey Mouse                                 10
+小鹿                             Fawn/Deerlet                                 10
+猫头鹰                           Owl                                          10
+五角星                           Pentacle/Pentagram/Star                      10
+竖条纹                           Vertical stripes                             10
+短裙（76-90cm）                  Above Knee (76-90cm)                         11
+中长裙（106-125cm）              Below Knee (106-125cm)                       11
+中裙（91-105cm）                 Knee (91-105cm)                              11
+中裙（31-45cm）                  Knee (31-45cm)                               11
+超短裙（小于75cm）               Mini (shorter than 75cm)                     11
+长裙（大于65cm）                 Midi (longer than 65cm)                      11
+长裙（大于126cm）                Midi (longer than 126cm)                     11
+中长裙（46-65cm）                Below Knee (46-65cm)                         11
+短裙                             Above Knee                                   11
+短裙（26-30cm）                  Above Knee (26-30cm)                         11
+长裙                             Midi                                         11
+中裙                             Knee                                         11
+衣裙套装                         Ensemble                                     12
+衣裤套装                         Pantsuit/Trouser suit                        12
+套头                             Pullover                                     12
+吊带                             Strap                                        12
+修身                             Slim fit                                     12
+直筒                             Straights                                    12
+阔脚                             Wide Leg                                     12
+背带                             Suspenders                                   12
+开衫                             Cardigan                                     12
+工字型                           H-shaped                                     12
+短袖                             Short Sleeves                                13
+无袖                             Sleeveless                                   13
+长袖                             Long Sleeves                                 13
+五分袖/中袖                      Half Sleeves/Ballet sleeve                   13
+七分袖                           3/4 Sleeves                                  13
+吊带                             Strap                                        13
+背带                             Suspenders                                   13
+五分袖                           Half Sleeves                                 13
+九分袖                           Long Sleeves                                 13
+宽松                             Wide/Loose                                	  14
+修身                             Slim Fit                                     14
+H型（直身）                      Rectangle-shaped                             14
+直筒                             Rectangle-shaped                             14
+X型（收腰）                      Hourglass-shaped                             14
+直身                             Rectangle-shaped                             14
+收腰                             Hourglass-shaped                             14
+A型                              Pear-shaped                                  14
+圆领                             Crewneck                                     15
+翻领/Polo领                      Polo Collar                                  15
+V领                              V-neck                                       15
+立领                             Stand Collar                                 15
+一字领                           Boat Neck                                    15
+连帽/帽领                        Hoodies                                      15
+娃娃领                           Doll Collar                                  15
+方领                             Square Collar                                15
+西装领                           Classic Collar                               15
+半开领                           V-neck                                       15
+连帽                             Hoodies                                      15
+A字裙                            A-lined Dress                                16
+大摆型                           Tent Dress                                   16
+公主裙                           Princess Dress                               16
+直筒裙                           Barrel Dress                                 16
+包臀裙                           Bodycon                                      16
+百褶裙                           Skirt with accordion pleats                  16
+背带裙                           Jumper Skirt                                 16
+蓬蓬裙                           Pouf dress                                   16
+一步裙                           Sheath dress                                 16
+荷叶边裙                         Flounce dress                                16
+不规则裙                         Ragged dress                                 16
+蛋糕裙                           Tiered skirt                                 16
+普通                             Regular thickness                            17
+薄款                             Thin                                         17
+常规                             Regular thickness                            17
+加厚                             Thick                                        17
+超薄                             Very thin                                    17
+抓绒                             Fleece                                       17
+适中                             Regular thickness                            17
+常规袖                           Regular Sleeves                              18
+蝙蝠袖                           Batwing Sleeves                              18
+荷叶袖                           Bufferfly/Angel Sleeves                      18
+泡泡袖                           Puff Sleeves                                 18
+常规                             Regular Sleeves                              18
+喇叭袖                           Flare Sleeves                                18
+插肩袖                           Raglan                                       18
+灯笼袖                           Puff Sleeves                                 18
+衬衫袖                           French Cuff                                  18
+飞飞袖                           Bufferfly Sleeves                            18
+公主袖                           Leg-of-mutton Sleeve                         18
